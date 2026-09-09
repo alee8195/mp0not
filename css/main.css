@@ -1,0 +1,27 @@
+/* Your CSS here. */
+body {
+    background-color: white;
+}
+
+.inner a {
+    color: rgb(129, 206, 232)
+}
+
+.inner {
+    width: 800px;
+    margin: 100px;
+    padding: 50px;
+    background-color: #287855; 
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+
+.inner img {
+    width: 150px;
+    height: 150px;
+}
+
+.inner p {
+    text-align: center;
+}
