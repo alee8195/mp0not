@@ -1,2 +1,2 @@
 /* Your JS here. */
-console.log('Ashley was here :D')
+console.log('Hello World!')
